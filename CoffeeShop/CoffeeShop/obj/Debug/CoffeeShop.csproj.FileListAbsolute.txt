@@ -1,0 +1,27 @@
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+J:\Education\7TH\OBJECT ORIENTED PROGRAMMING 2 [G]\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.bill.resources
+I:\C# Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+I:\C# Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+I:\C# Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.bill.resources
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Home.resources
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.OwnerLogin.resources
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.EmployeeLogin.resources
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.OwnerHome.resources
+I:\C# Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.mdf
+I:\C# Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop_log.ldf
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.EmployeeDetails.resources
+I:\C# Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
