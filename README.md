@@ -1,4 +1,5 @@
-# Coffee-Shop-
+# Coffee Shop Management System
+This is Coffee Shop Management System Group-Based Project using C# Programming Language on C# course.
 ---------------------------------------------------
 *******Coffee Shop Management C# Project*********
 ---------------------------------------------------
